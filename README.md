@@ -31,4 +31,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Authors
 
-* **Muhammmad Zaman** - *Initial work* - [mhzaman-cs](https://github.com/mhzaman-cs)
+* **Miles Zaman** - *Sole Contributor* - [mhzaman-cs](https://github.com/mhzaman-cs)
